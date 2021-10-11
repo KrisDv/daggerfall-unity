@@ -1,4 +1,4 @@
-﻿// Project:         Daggerfall Tools For Unity
+// Project:         Daggerfall Tools For Unity
 // Copyright:       Copyright (C) 2009-2021 Daggerfall Workshop
 // Web Site:        http://www.dfworkshop.net
 // License:         MIT License (http://www.opensource.org/licenses/mit-license.php)
@@ -69,7 +69,8 @@ namespace DaggerfallConnect.Utility
             public bool WoodsValid;
 
             /// <summary>True if all .VID files present.</summary>
-            public bool VideosValid;
+            // NOTE: this is a little hack to help run the game when some video files are missing.
+            public bool VideosValid { get => true; set { } }
         }
 
         #endregion

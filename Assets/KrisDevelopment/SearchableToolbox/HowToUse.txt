@@ -1,0 +1,6 @@
+Tool is located in Window > Kris Development > Searchable Toolbox
+or alternatively you can open it up using CTRL + SHIFT + T
+
+You can pin tools that you use or open frequently or search for what you need using the search bar.
+Any method in the project that uses the MenuItem attribute will be listed on. 
+Sometimes standard windows such as profiler, etc. will not be listed on some Unity versions.

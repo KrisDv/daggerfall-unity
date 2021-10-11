@@ -1,0 +1,1049 @@
+{
+    "displayName": "VMBlast-Alyndiar Recolors",
+    "rowCount": 20,
+    "iconCount": 260,
+    "filterMode": "Bilinear",
+    "icons": [
+        {
+            "index": 0,
+            "suggestedEffects": null
+        },
+        {
+            "index": 1,
+            "suggestedEffects": null
+        },
+        {
+            "index": 2,
+            "suggestedEffects": null
+        },
+        {
+            "index": 3,
+            "suggestedEffects": null
+        },
+        {
+            "index": 4,
+            "suggestedEffects": null
+        },
+        {
+            "index": 5,
+            "suggestedEffects": null
+        },
+        {
+            "index": 6,
+            "suggestedEffects": null
+        },
+        {
+            "index": 7,
+            "suggestedEffects": null
+        },
+        {
+            "index": 8,
+            "suggestedEffects": null
+        },
+        {
+            "index": 9,
+            "suggestedEffects": null
+        },
+        {
+            "index": 10,
+            "suggestedEffects": null
+        },
+        {
+            "index": 11,
+            "suggestedEffects": null
+        },
+        {
+            "index": 12,
+            "suggestedEffects": null
+        },
+        {
+            "index": 13,
+            "suggestedEffects": null
+        },
+        {
+            "index": 14,
+            "suggestedEffects": null
+        },
+        {
+            "index": 15,
+            "suggestedEffects": null
+        },
+        {
+            "index": 16,
+            "suggestedEffects": null
+        },
+        {
+            "index": 17,
+            "suggestedEffects": null
+        },
+        {
+            "index": 18,
+            "suggestedEffects": null
+        },
+        {
+            "index": 19,
+            "suggestedEffects": null
+        },
+        {
+            "index": 20,
+            "suggestedEffects": null
+        },
+        {
+            "index": 21,
+            "suggestedEffects": null
+        },
+        {
+            "index": 22,
+            "suggestedEffects": null
+        },
+        {
+            "index": 23,
+            "suggestedEffects": null
+        },
+        {
+            "index": 24,
+            "suggestedEffects": null
+        },
+        {
+            "index": 25,
+            "suggestedEffects": null
+        },
+        {
+            "index": 26,
+            "suggestedEffects": null
+        },
+        {
+            "index": 27,
+            "suggestedEffects": null
+        },
+        {
+            "index": 28,
+            "suggestedEffects": null
+        },
+        {
+            "index": 29,
+            "suggestedEffects": null
+        },
+        {
+            "index": 30,
+            "suggestedEffects": null
+        },
+        {
+            "index": 31,
+            "suggestedEffects": null
+        },
+        {
+            "index": 32,
+            "suggestedEffects": null
+        },
+        {
+            "index": 33,
+            "suggestedEffects": null
+        },
+        {
+            "index": 34,
+            "suggestedEffects": null
+        },
+        {
+            "index": 35,
+            "suggestedEffects": null
+        },
+        {
+            "index": 36,
+            "suggestedEffects": null
+        },
+        {
+            "index": 37,
+            "suggestedEffects": null
+        },
+        {
+            "index": 38,
+            "suggestedEffects": null
+        },
+        {
+            "index": 39,
+            "suggestedEffects": null
+        },
+        {
+            "index": 40,
+            "suggestedEffects": null
+        },
+        {
+            "index": 41,
+            "suggestedEffects": null
+        },
+        {
+            "index": 42,
+            "suggestedEffects": null
+        },
+        {
+            "index": 43,
+            "suggestedEffects": null
+        },
+        {
+            "index": 44,
+            "suggestedEffects": null
+        },
+        {
+            "index": 45,
+            "suggestedEffects": null
+        },
+        {
+            "index": 46,
+            "suggestedEffects": null
+        },
+        {
+            "index": 47,
+            "suggestedEffects": null
+        },
+        {
+            "index": 48,
+            "suggestedEffects": null
+        },
+        {
+            "index": 49,
+            "suggestedEffects": null
+        },
+        {
+            "index": 50,
+            "suggestedEffects": null
+        },
+        {
+            "index": 51,
+            "suggestedEffects": null
+        },
+        {
+            "index": 52,
+            "suggestedEffects": null
+        },
+        {
+            "index": 53,
+            "suggestedEffects": null
+        },
+        {
+            "index": 54,
+            "suggestedEffects": null
+        },
+        {
+            "index": 55,
+            "suggestedEffects": null
+        },
+        {
+            "index": 56,
+            "suggestedEffects": null
+        },
+        {
+            "index": 57,
+            "suggestedEffects": null
+        },
+        {
+            "index": 58,
+            "suggestedEffects": null
+        },
+        {
+            "index": 59,
+            "suggestedEffects": null
+        },
+        {
+            "index": 60,
+            "suggestedEffects": null
+        },
+        {
+            "index": 61,
+            "suggestedEffects": null
+        },
+        {
+            "index": 62,
+            "suggestedEffects": null
+        },
+        {
+            "index": 63,
+            "suggestedEffects": null
+        },
+        {
+            "index": 64,
+            "suggestedEffects": null
+        },
+        {
+            "index": 65,
+            "suggestedEffects": null
+        },
+        {
+            "index": 66,
+            "suggestedEffects": null
+        },
+        {
+            "index": 67,
+            "suggestedEffects": null
+        },
+        {
+            "index": 68,
+            "suggestedEffects": null
+        },
+        {
+            "index": 69,
+            "suggestedEffects": null
+        },
+        {
+            "index": 70,
+            "suggestedEffects": null
+        },
+        {
+            "index": 71,
+            "suggestedEffects": null
+        },
+        {
+            "index": 72,
+            "suggestedEffects": null
+        },
+        {
+            "index": 73,
+            "suggestedEffects": null
+        },
+        {
+            "index": 74,
+            "suggestedEffects": null
+        },
+        {
+            "index": 75,
+            "suggestedEffects": null
+        },
+        {
+            "index": 76,
+            "suggestedEffects": null
+        },
+        {
+            "index": 77,
+            "suggestedEffects": null
+        },
+        {
+            "index": 78,
+            "suggestedEffects": null
+        },
+        {
+            "index": 79,
+            "suggestedEffects": null
+        },
+        {
+            "index": 80,
+            "suggestedEffects": null
+        },
+        {
+            "index": 81,
+            "suggestedEffects": null
+        },
+        {
+            "index": 82,
+            "suggestedEffects": null
+        },
+        {
+            "index": 83,
+            "suggestedEffects": null
+        },
+        {
+            "index": 84,
+            "suggestedEffects": null
+        },
+        {
+            "index": 85,
+            "suggestedEffects": null
+        },
+        {
+            "index": 86,
+            "suggestedEffects": null
+        },
+        {
+            "index": 87,
+            "suggestedEffects": null
+        },
+        {
+            "index": 88,
+            "suggestedEffects": null
+        },
+        {
+            "index": 89,
+            "suggestedEffects": null
+        },
+        {
+            "index": 90,
+            "suggestedEffects": null
+        },
+        {
+            "index": 91,
+            "suggestedEffects": null
+        },
+        {
+            "index": 92,
+            "suggestedEffects": null
+        },
+        {
+            "index": 93,
+            "suggestedEffects": null
+        },
+        {
+            "index": 94,
+            "suggestedEffects": null
+        },
+        {
+            "index": 95,
+            "suggestedEffects": null
+        },
+        {
+            "index": 96,
+            "suggestedEffects": null
+        },
+        {
+            "index": 97,
+            "suggestedEffects": null
+        },
+        {
+            "index": 98,
+            "suggestedEffects": null
+        },
+        {
+            "index": 99,
+            "suggestedEffects": null
+        },
+        {
+            "index": 100,
+            "suggestedEffects": null
+        },
+        {
+            "index": 101,
+            "suggestedEffects": null
+        },
+        {
+            "index": 102,
+            "suggestedEffects": null
+        },
+        {
+            "index": 103,
+            "suggestedEffects": null
+        },
+        {
+            "index": 104,
+            "suggestedEffects": null
+        },
+        {
+            "index": 105,
+            "suggestedEffects": null
+        },
+        {
+            "index": 106,
+            "suggestedEffects": null
+        },
+        {
+            "index": 107,
+            "suggestedEffects": null
+        },
+        {
+            "index": 108,
+            "suggestedEffects": null
+        },
+        {
+            "index": 109,
+            "suggestedEffects": null
+        },
+        {
+            "index": 110,
+            "suggestedEffects": null
+        },
+        {
+            "index": 111,
+            "suggestedEffects": null
+        },
+        {
+            "index": 112,
+            "suggestedEffects": null
+        },
+        {
+            "index": 113,
+            "suggestedEffects": null
+        },
+        {
+            "index": 114,
+            "suggestedEffects": null
+        },
+        {
+            "index": 115,
+            "suggestedEffects": null
+        },
+        {
+            "index": 116,
+            "suggestedEffects": null
+        },
+        {
+            "index": 117,
+            "suggestedEffects": null
+        },
+        {
+            "index": 118,
+            "suggestedEffects": null
+        },
+        {
+            "index": 119,
+            "suggestedEffects": null
+        },
+        {
+            "index": 120,
+            "suggestedEffects": null
+        },
+        {
+            "index": 121,
+            "suggestedEffects": null
+        },
+        {
+            "index": 122,
+            "suggestedEffects": null
+        },
+        {
+            "index": 123,
+            "suggestedEffects": null
+        },
+        {
+            "index": 124,
+            "suggestedEffects": null
+        },
+        {
+            "index": 125,
+            "suggestedEffects": null
+        },
+        {
+            "index": 126,
+            "suggestedEffects": null
+        },
+        {
+            "index": 127,
+            "suggestedEffects": null
+        },
+        {
+            "index": 128,
+            "suggestedEffects": null
+        },
+        {
+            "index": 129,
+            "suggestedEffects": null
+        },
+        {
+            "index": 130,
+            "suggestedEffects": null
+        },
+        {
+            "index": 131,
+            "suggestedEffects": null
+        },
+        {
+            "index": 132,
+            "suggestedEffects": null
+        },
+        {
+            "index": 133,
+            "suggestedEffects": null
+        },
+        {
+            "index": 134,
+            "suggestedEffects": null
+        },
+        {
+            "index": 135,
+            "suggestedEffects": null
+        },
+        {
+            "index": 136,
+            "suggestedEffects": null
+        },
+        {
+            "index": 137,
+            "suggestedEffects": null
+        },
+        {
+            "index": 138,
+            "suggestedEffects": null
+        },
+        {
+            "index": 139,
+            "suggestedEffects": null
+        },
+        {
+            "index": 140,
+            "suggestedEffects": null
+        },
+        {
+            "index": 141,
+            "suggestedEffects": null
+        },
+        {
+            "index": 142,
+            "suggestedEffects": null
+        },
+        {
+            "index": 143,
+            "suggestedEffects": null
+        },
+        {
+            "index": 144,
+            "suggestedEffects": null
+        },
+        {
+            "index": 145,
+            "suggestedEffects": null
+        },
+        {
+            "index": 146,
+            "suggestedEffects": null
+        },
+        {
+            "index": 147,
+            "suggestedEffects": null
+        },
+        {
+            "index": 148,
+            "suggestedEffects": null
+        },
+        {
+            "index": 149,
+            "suggestedEffects": null
+        },
+        {
+            "index": 150,
+            "suggestedEffects": null
+        },
+        {
+            "index": 151,
+            "suggestedEffects": null
+        },
+        {
+            "index": 152,
+            "suggestedEffects": null
+        },
+        {
+            "index": 153,
+            "suggestedEffects": null
+        },
+        {
+            "index": 154,
+            "suggestedEffects": null
+        },
+        {
+            "index": 155,
+            "suggestedEffects": null
+        },
+        {
+            "index": 156,
+            "suggestedEffects": null
+        },
+        {
+            "index": 157,
+            "suggestedEffects": null
+        },
+        {
+            "index": 158,
+            "suggestedEffects": null
+        },
+        {
+            "index": 159,
+            "suggestedEffects": null
+        },
+        {
+            "index": 160,
+            "suggestedEffects": null
+        },
+        {
+            "index": 161,
+            "suggestedEffects": null
+        },
+        {
+            "index": 162,
+            "suggestedEffects": null
+        },
+        {
+            "index": 163,
+            "suggestedEffects": null
+        },
+        {
+            "index": 164,
+            "suggestedEffects": null
+        },
+        {
+            "index": 165,
+            "suggestedEffects": null
+        },
+        {
+            "index": 166,
+            "suggestedEffects": null
+        },
+        {
+            "index": 167,
+            "suggestedEffects": null
+        },
+        {
+            "index": 168,
+            "suggestedEffects": null
+        },
+        {
+            "index": 169,
+            "suggestedEffects": null
+        },
+        {
+            "index": 170,
+            "suggestedEffects": null
+        },
+        {
+            "index": 171,
+            "suggestedEffects": null
+        },
+        {
+            "index": 172,
+            "suggestedEffects": null
+        },
+        {
+            "index": 173,
+            "suggestedEffects": null
+        },
+        {
+            "index": 174,
+            "suggestedEffects": null
+        },
+        {
+            "index": 175,
+            "suggestedEffects": null
+        },
+        {
+            "index": 176,
+            "suggestedEffects": null
+        },
+        {
+            "index": 177,
+            "suggestedEffects": null
+        },
+        {
+            "index": 178,
+            "suggestedEffects": null
+        },
+        {
+            "index": 179,
+            "suggestedEffects": null
+        },
+        {
+            "index": 180,
+            "suggestedEffects": null
+        },
+        {
+            "index": 181,
+            "suggestedEffects": null
+        },
+        {
+            "index": 182,
+            "suggestedEffects": null
+        },
+        {
+            "index": 183,
+            "suggestedEffects": null
+        },
+        {
+            "index": 184,
+            "suggestedEffects": null
+        },
+        {
+            "index": 185,
+            "suggestedEffects": null
+        },
+        {
+            "index": 186,
+            "suggestedEffects": null
+        },
+        {
+            "index": 187,
+            "suggestedEffects": null
+        },
+        {
+            "index": 188,
+            "suggestedEffects": null
+        },
+        {
+            "index": 189,
+            "suggestedEffects": null
+        },
+        {
+            "index": 190,
+            "suggestedEffects": null
+        },
+        {
+            "index": 191,
+            "suggestedEffects": null
+        },
+        {
+            "index": 192,
+            "suggestedEffects": null
+        },
+        {
+            "index": 193,
+            "suggestedEffects": null
+        },
+        {
+            "index": 194,
+            "suggestedEffects": null
+        },
+        {
+            "index": 195,
+            "suggestedEffects": null
+        },
+        {
+            "index": 196,
+            "suggestedEffects": null
+        },
+        {
+            "index": 197,
+            "suggestedEffects": null
+        },
+        {
+            "index": 198,
+            "suggestedEffects": null
+        },
+        {
+            "index": 199,
+            "suggestedEffects": null
+        },
+        {
+            "index": 200,
+            "suggestedEffects": null
+        },
+        {
+            "index": 201,
+            "suggestedEffects": null
+        },
+        {
+            "index": 202,
+            "suggestedEffects": null
+        },
+        {
+            "index": 203,
+            "suggestedEffects": null
+        },
+        {
+            "index": 204,
+            "suggestedEffects": null
+        },
+        {
+            "index": 205,
+            "suggestedEffects": null
+        },
+        {
+            "index": 206,
+            "suggestedEffects": null
+        },
+        {
+            "index": 207,
+            "suggestedEffects": null
+        },
+        {
+            "index": 208,
+            "suggestedEffects": null
+        },
+        {
+            "index": 209,
+            "suggestedEffects": null
+        },
+        {
+            "index": 210,
+            "suggestedEffects": null
+        },
+        {
+            "index": 211,
+            "suggestedEffects": null
+        },
+        {
+            "index": 212,
+            "suggestedEffects": null
+        },
+        {
+            "index": 213,
+            "suggestedEffects": null
+        },
+        {
+            "index": 214,
+            "suggestedEffects": null
+        },
+        {
+            "index": 215,
+            "suggestedEffects": null
+        },
+        {
+            "index": 216,
+            "suggestedEffects": null
+        },
+        {
+            "index": 217,
+            "suggestedEffects": null
+        },
+        {
+            "index": 218,
+            "suggestedEffects": null
+        },
+        {
+            "index": 219,
+            "suggestedEffects": null
+        },
+        {
+            "index": 220,
+            "suggestedEffects": null
+        },
+        {
+            "index": 221,
+            "suggestedEffects": null
+        },
+        {
+            "index": 222,
+            "suggestedEffects": null
+        },
+        {
+            "index": 223,
+            "suggestedEffects": null
+        },
+        {
+            "index": 224,
+            "suggestedEffects": null
+        },
+        {
+            "index": 225,
+            "suggestedEffects": null
+        },
+        {
+            "index": 226,
+            "suggestedEffects": null
+        },
+        {
+            "index": 227,
+            "suggestedEffects": null
+        },
+        {
+            "index": 228,
+            "suggestedEffects": null
+        },
+        {
+            "index": 229,
+            "suggestedEffects": null
+        },
+        {
+            "index": 230,
+            "suggestedEffects": null
+        },
+        {
+            "index": 231,
+            "suggestedEffects": null
+        },
+        {
+            "index": 232,
+            "suggestedEffects": null
+        },
+        {
+            "index": 233,
+            "suggestedEffects": null
+        },
+        {
+            "index": 234,
+            "suggestedEffects": null
+        },
+        {
+            "index": 235,
+            "suggestedEffects": null
+        },
+        {
+            "index": 236,
+            "suggestedEffects": null
+        },
+        {
+            "index": 237,
+            "suggestedEffects": null
+        },
+        {
+            "index": 238,
+            "suggestedEffects": null
+        },
+        {
+            "index": 239,
+            "suggestedEffects": null
+        },
+        {
+            "index": 240,
+            "suggestedEffects": null
+        },
+        {
+            "index": 241,
+            "suggestedEffects": null
+        },
+        {
+            "index": 242,
+            "suggestedEffects": null
+        },
+        {
+            "index": 243,
+            "suggestedEffects": null
+        },
+        {
+            "index": 244,
+            "suggestedEffects": null
+        },
+        {
+            "index": 245,
+            "suggestedEffects": null
+        },
+        {
+            "index": 246,
+            "suggestedEffects": null
+        },
+        {
+            "index": 247,
+            "suggestedEffects": null
+        },
+        {
+            "index": 248,
+            "suggestedEffects": null
+        },
+        {
+            "index": 249,
+            "suggestedEffects": null
+        },
+        {
+            "index": 250,
+            "suggestedEffects": null
+        },
+        {
+            "index": 251,
+            "suggestedEffects": null
+        },
+        {
+            "index": 252,
+            "suggestedEffects": null
+        },
+        {
+            "index": 253,
+            "suggestedEffects": null
+        },
+        {
+            "index": 254,
+            "suggestedEffects": null
+        },
+        {
+            "index": 255,
+            "suggestedEffects": null
+        },
+        {
+            "index": 256,
+            "suggestedEffects": null
+        },
+        {
+            "index": 257,
+            "suggestedEffects": null
+        },
+        {
+            "index": 258,
+            "suggestedEffects": null
+        },
+        {
+            "index": 259,
+            "suggestedEffects": null
+
+        }
+    ]
+}

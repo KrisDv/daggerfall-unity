@@ -20,7 +20,7 @@ Shader "Daggerfall/BillboardBatch" {
 		_UpVector ("Up Vector (XYZ)", Vector) = (0,1,0,0)
 	}
 	SubShader {
-		Tags { "Queue" = "Transparent" "IgnoreProjector" = "True" "RenderType" = "Transparent" }
+		Tags { "Queue" = "Geometry" "IgnoreProjector" = "True" "RenderType" = "Opaque" }
 		LOD 200
 		
 		CGPROGRAM

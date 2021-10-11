@@ -1,0 +1,14 @@
+IK Plus
+Developed by: Hristo Ivanov
+Asset Store Publisher: Kris Development
+
+HOW TO USE:
+Navigate to "Kris Development > Favorite Scenes".
+Dock the window somewhere you see fit.
+Click on the drag a scene asset to the scene field or press "Pin Current Scene" to add a scene to the list.
+Press the scene from the list to instantly load it in the editor.
+"O" to locate your scene asset in the project.
+"Add" allows you to additively load the scene.
+"X" will remove the scene from the pinned scenes list.
+
+Support e-mail: krisdevmail@gmail.com

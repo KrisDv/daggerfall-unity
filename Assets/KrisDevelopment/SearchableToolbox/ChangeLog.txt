@@ -1,0 +1,10 @@
+v1.1
+- Changed shortcut from CTRL + SHIFT + T to ALT + SHIFT + M
+- Added auto focus on search field upon opening the window
+- Fixed "zero tools" bug
+
+v1.1.1
+- Bug fixes
+
+v1.1.2
+- Non-dockable window option (in config)
